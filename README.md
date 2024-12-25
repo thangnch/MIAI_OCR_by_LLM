@@ -1,7 +1,7 @@
 # MIAI_OCR_by_LLM
 Demo OCR by LLM 
 
-Video link:  https://youtu.be/_52-kz08LvU
+Video link:  [https://youtu.be/_52-kz08LvU](https://youtu.be/7v4of1TlBBY)
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
